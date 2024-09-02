@@ -5,7 +5,7 @@ import os
 
 load_dotenv()
 
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.getenv("AIzaSyBY0DkTHUU5Ajmp1E8eUmL7Lf41jksqNWw"))
 
 #Gemini model and response
 
